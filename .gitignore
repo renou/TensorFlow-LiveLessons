@@ -87,3 +87,4 @@ ENV/
 
 # Rope project settings
 .ropeproject
+quickdraw_data/apple.npy
